@@ -1,0 +1,15 @@
+# Binaries
+[Bb]in/
+[Oo]bj/
+Publish/
+
+# IDE Files
+.idea/
+.vs/
+
+# Package Cache
+/packages/
+
+# Rider
+riderModule.iml
+/_ReSharper.Caches/
