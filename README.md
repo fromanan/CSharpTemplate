@@ -1,1 +1,1 @@
-# CSharpTemplate
+# C# Template Project
