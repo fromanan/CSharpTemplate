@@ -1,7 +1,11 @@
 # Binaries
 [Bb]in/
 [Oo]bj/
-Publish/
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+[Pp]ublish/
 
 # IDE Files
 .idea/
@@ -13,4 +17,10 @@ Publish/
 
 # Rider
 riderModule.iml
-/_ReSharper.Caches/
+
+# Resharper
+/_ReSharper.*
+*.ReSharper.*
+
+# MacOS
+.DS_Store
