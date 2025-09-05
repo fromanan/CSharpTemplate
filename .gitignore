@@ -6,6 +6,7 @@ Publish/
 # IDE Files
 .idea/
 .vs/
+.vscode/
 
 # Package Cache
 /packages/
